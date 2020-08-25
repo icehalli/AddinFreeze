@@ -1,0 +1,16 @@
+{
+    "version":  "0.2.0",
+    "configurations":  [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "mb164 (Go Current)",
+            "server": "http://localhost",
+            "serverInstance": "mb164",
+            "authentication": "Windows",
+            "port": 9049,
+            "schemaUpdateMode": "ForceSync",
+            "startupObjectId": 50104
+        }
+    ]
+}

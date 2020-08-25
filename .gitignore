@@ -1,0 +1,16 @@
+/*.app
+.alpackages
+.altemplates
+.alcache
+.netpackages
+/ExtCode/Layouts/*.rdlc
+/.vscode/rad.json
+/vsix
+/My
+.gocurrent/data.json
+.gocurrent/target.json
+PackagesOutput/My
+/scripts/customsetupparams.json
+/LS_Central_POS/build/*
+/PackagesOutput
+/Translations/*
